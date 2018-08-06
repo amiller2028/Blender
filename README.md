@@ -3,6 +3,7 @@ A collection of my custom Blender settings, themes n shit. It makes the controls
 
 ## NOTE: Currently all my settings are for blender 2.79
 
+<<<<<<< HEAD
 ## Unity Preferences Mouse Controls
 * Left click: Box Select
 * Shift + Left Clcik: Box Deselect
@@ -10,6 +11,11 @@ A collection of my custom Blender settings, themes n shit. It makes the controls
 * Middle Mouse Button: Pan
 
 ![Alt text]("https://github.com/amiller2028/Blender/Images/User Interface.jpg")
+=======
+![alt text](https://github.com/amiller2028/Blender/blob/master/Images/User_Interface.JPG "Logo Title Text 1")
+
+
+>>>>>>> aa795314898962cecf27409896b7c9f310f22f3b
 ## Installation instructions
 1.  Browse to your roaming directory, you can type in %appdata% in file explorer to easily navigate there.
 2.  Locate and open your Blender folder in the roaming folder *Roaming/Blender Foundation/Blender
