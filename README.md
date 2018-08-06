@@ -3,7 +3,7 @@ A collection of my custom Blender settings, themes n shit. It makes the controls
 
 ## NOTE: Currently all my settings are for blender 2.79
 
-![Alt text](https://github.com/amiller2028/Blender/Images/User_Interface.jpg)
+![Image](https://github.com/amiller2028/Blender/Images/User_Interface.JPG)
 
 ## Installation instructions
 1.  Browse to your roaming directory, you can type in %appdata% in file explorer to easily navigate there.
