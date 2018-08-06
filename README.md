@@ -1,5 +1,5 @@
 # BlenderPresets
-A collection of my custom Blender settings, themes n shit
+A collection of my custom Blender settings, themes n shit. It makes the controls for navigation more like unity with an additional option to orbit around the selected objects. Dark theme with purple accents, your welcome Morgon.
 
 ## NOTE: Currently all my settings are for blender 2.79
 
