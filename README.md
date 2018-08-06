@@ -3,7 +3,7 @@ A collection of my custom Blender settings, themes n shit. It makes the controls
 
 ## NOTE: Currently all my settings are for blender 2.79
 
-![alt text](https://github.com/amiller2028/Blender/Images/User_Interface.JPG "Logo Title Text 1")
+![alt text](https://github.com/amiller2028/Blender/blob/master/Images/User_Interface.JPG "Logo Title Text 1")
 
 
 ## Installation instructions
