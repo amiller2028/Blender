@@ -2,6 +2,13 @@
 A collection of my custom Blender settings, themes n shit. It makes the controls for navigation more like unity with an additional option to orbit around the selected objects. Dark theme with purple accents, your welcome Morgon.
 
 ## NOTE: Currently all my settings are for blender 2.79
+
+## Unity Preferences Mouse Controls
+* Left click: Box Select
+* Shift + Left Clcik: Box Deselect
+* Right Click: Orbit
+* Middle Mouse Button: Pan
+
 ![Alt text]("https://github.com/amiller2028/Blender/Images/User Interface.jpg")
 ## Installation instructions
 1.  Browse to your roaming directory, you can type in %appdata% in file explorer to easily navigate there.
